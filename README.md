@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Location]</h3>
+<h1 align="center">Hey there 👋, I'm Callum </h1>
+<h3 align="center">A passionate computer science lecturer from England </h3>
 
 <p align="center">
   <a href="https://github.com/oaktub007">
@@ -11,20 +11,12 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤝 I’m looking for help with **[something you're learning or building]**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything web-related**
-- 📫 How to reach me: **[your@email.com]**
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 30 seconds**
+- 🔭 I’m currently working on **Web Porfolio**
+- 🌱 I’m currently learning **HTML, CSS, JS & Python**
 
----
 
-### 🛠️ Tech Stack
 
-```yaml
-💡 Languages: JavaScript, TypeScript, Python  
-🖼️ Frameworks: React, Next.js, Node.js, Express  
-🛢️ Databases: MongoDB, PostgreSQL  
-🛠️ Tools: Git, Docker, VS Code, Figma  
+
+
+
+
